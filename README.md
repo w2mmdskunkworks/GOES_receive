@@ -1,2 +1,2 @@
 # GOES_receive
-Scripts and other information for the GOOES receiver
+Scripts and other information for the GOES 19 receiver
